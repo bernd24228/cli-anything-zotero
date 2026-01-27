@@ -17,3 +17,4 @@ Notes and usage details for cli-anything-zotero.
 - link the usage section
 - link the usage section
 - link the usage section
+- fix a small wording issue
