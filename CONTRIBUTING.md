@@ -24,3 +24,4 @@ Notes and usage details for cli-anything-zotero.
 - clarify the setup steps
 - link the usage section
 - add a note about the defaults
+- add a note about the defaults
